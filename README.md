@@ -1,3 +1,5 @@
+## Zmiany w gałęzi dev
+- test pull requesta
 Zmiana wykonana na branchu dev.
 # DevOps Lab – Git
 
