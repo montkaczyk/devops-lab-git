@@ -1,3 +1,4 @@
+Zmiana wykonana na branchu dev.
 # DevOps Lab – Git
 
 Prosty projekt testowy do zaliczenia laboratorium DevOps.
